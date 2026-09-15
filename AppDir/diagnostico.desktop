@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Name=Diagnostico de Hardware (Elementista)
+Comment=Utilitario de diagnostico de hardware
+Exec=DiagnosticoBancada
+Icon=diagnostico
+Terminal=true
+Categories=Utility;
+
